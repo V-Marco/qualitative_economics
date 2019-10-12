@@ -1,7 +1,8 @@
 # Качественные задачи по экономике
 
-- [Подборка 1](https://github.com/V-Marco/qualitative_economics/blob/master/problem_set_1.pdf)
-- [Подборка 2](https://github.com/V-Marco/qualitative_economics/blob/master/problem_set_2.pdf)
+- [Подборка: Теория игр](https://github.com/V-Marco/qualitative_economics/blob/master/problem_set_1.pdf)
+- [Подборка: Политическая экономика](https://github.com/V-Marco/qualitative_economics/blob/master/problem_set_2.pdf)
+- [Подборка: Введние в аппарат анализа данных](https://github.com/V-Marco/qualitative_economics/blob/master/problem_set_intro_to_ad.pdf)
 
 Контакты преподавателей:
 
