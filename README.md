@@ -6,6 +6,7 @@
 - [Подборка: Теория игр (5 октября), ](https://github.com/V-Marco/qualitative_economics/blob/master/problem_set_1.pdf)
 - [Подборка: Введение в аппарат анализа данных (12 и 26 октября)](https://github.com/V-Marco/qualitative_economics/blob/master/problem_set_intro_to_ad.pdf)
 - [Подборка: Политическая экономика (19 октября)](https://github.com/V-Marco/qualitative_economics/blob/master/problem_set_2.pdf)
+- [Необязательное домашнее задание: Выборы (19 октября)](https://github.com/V-Marco/qualitative_economics/blob/master/problem_set_elections.pdf)
 - [Подборка: Графический анализ данных. Задачи на уравнение регрессии (Часть 1) (26 октября)](https://github.com/V-Marco/qualitative_economics/blob/master/problem_set_regression.pdf)
 
 #### Контакты преподавателей:
