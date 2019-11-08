@@ -8,6 +8,7 @@
 - [Подборка: Политическая экономика (19 октября)](https://github.com/V-Marco/qualitative_economics/blob/master/problem_set_2.pdf)
 - [Необязательное домашнее задание: Выборы (19 октября)](https://github.com/V-Marco/qualitative_economics/blob/master/problem_set_elections.pdf)
 - [Подборка: Графический анализ данных. Задачи на уравнение регрессии (Часть 1) (26 октября)](https://github.com/V-Marco/qualitative_economics/blob/master/problem_set_regression.pdf)
+- [Подборка: Графический анализ данных. Задачи на уравнение регрессии (Часть 2) (9 ноября)](https://github.com/V-Marco/qualitative_economics/blob/master/problem_set_regr2.pdf)
 
 #### Контакты преподавателей:
 
