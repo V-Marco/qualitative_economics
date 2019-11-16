@@ -9,6 +9,7 @@
 - [Необязательное домашнее задание: Выборы (19 октября)](https://github.com/V-Marco/qualitative_economics/blob/master/problem_set_elections.pdf)
 - [Подборка: Графический анализ данных. Задачи на уравнение регрессии (Часть 1) (26 октября)](https://github.com/V-Marco/qualitative_economics/blob/master/problem_set_regression.pdf)
 - [Подборка: Графический анализ данных. Задачи на уравнение регрессии (Часть 2) (9 ноября)](https://github.com/V-Marco/qualitative_economics/blob/master/problem_set_regr2.pdf)
+- [Проверочная работа 1: Теория игр. Политическая экономика. Введение в аппарат анализа данных. Задачи на уравнение регрессии.](https://github.com/V-Marco/qualitative_economics/blob/master/test_1.pdf)
 
 #### Контакты преподавателей:
 
