@@ -3,7 +3,7 @@
 Занятия проходят по субботам, с 14:45 до 16:10, на Лялином переулке, в аудитории 302. 
 
 #### Материалы к занятиям:
-- [Подборка: Теория игр (5 октября, обновл. 28 ноября), ](https://github.com/V-Marco/qualitative_economics/blob/master/problem_set_1.pdf)
+- [Подборка: Теория игр (5 октября, обновл. 28 ноября)](https://github.com/V-Marco/qualitative_economics/blob/master/problem_set_1.pdf)
 - [Подборка: Введение в аппарат анализа данных (12 и 26 октября)](https://github.com/V-Marco/qualitative_economics/blob/master/problem_set_intro_to_ad.pdf)
 - [Подборка: Политическая экономика (19 октября)](https://github.com/V-Marco/qualitative_economics/blob/master/problem_set_2.pdf)
 - [Необязательное домашнее задание: Выборы (19 октября)](https://github.com/V-Marco/qualitative_economics/blob/master/problem_set_elections.pdf)
