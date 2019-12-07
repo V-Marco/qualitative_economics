@@ -3,13 +3,14 @@
 Занятия проходят по субботам, с 14:45 до 16:10, на Лялином переулке, в аудитории 302. 
 
 #### Материалы к занятиям:
-- [Подборка: Теория игр (5 октября), ](https://github.com/V-Marco/qualitative_economics/blob/master/problem_set_1.pdf)
+- [Подборка: Теория игр (5 октября, обновл. 28 ноября)](https://github.com/V-Marco/qualitative_economics/blob/master/problem_set_1.pdf)
 - [Подборка: Введение в аппарат анализа данных (12 и 26 октября)](https://github.com/V-Marco/qualitative_economics/blob/master/problem_set_intro_to_ad.pdf)
 - [Подборка: Политическая экономика (19 октября)](https://github.com/V-Marco/qualitative_economics/blob/master/problem_set_2.pdf)
 - [Необязательное домашнее задание: Выборы (19 октября)](https://github.com/V-Marco/qualitative_economics/blob/master/problem_set_elections.pdf)
 - [Подборка: Графический анализ данных. Задачи на уравнение регрессии (Часть 1) (26 октября и 9 ноября)](https://github.com/V-Marco/qualitative_economics/blob/master/problem_set_regression.pdf)
 - [Подборка: Графический анализ данных. Задачи на уравнение регрессии (Часть 2) (16 ноября)](https://github.com/V-Marco/qualitative_economics/blob/master/problem_set_regr2.pdf)
 - [Проверочная работа 1: Теория игр. Политическая экономика. Введение в аппарат анализа данных. Задачи на уравнение регрессии (16 ноября)](https://github.com/V-Marco/qualitative_economics/blob/master/test_1.pdf)
+- [Подборка: Поведение фирмы (23 ноября)](https://github.com/V-Marco/qualitative_economics/blob/master/problem_set_firms.pdf)
 
 #### Контакты преподавателей:
 
