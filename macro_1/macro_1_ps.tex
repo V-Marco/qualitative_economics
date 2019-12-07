@@ -1,0 +1,173 @@
+\documentclass[10pt, a4paper]{extarticle}
+\setlength{\parskip}{0.5em}
+%%% Работа с русским языком
+\usepackage{cmap}					% поиск в PDF
+\usepackage{mathtext} 				% русские буквы в формулах
+\usepackage[T2A]{fontenc}			% кодировка
+\usepackage[utf8]{inputenc}			% кодировка исходного текста
+\usepackage[english,russian]{babel}	% локализация и переносы
+\usepackage{mathtools}   % loads »amsmath«
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage{physics}
+\usepackage{subcaption}
+\usepackage{tikz}
+\usepackage{multicol}
+\usepackage{enumitem}
+
+\usepackage{hyperref}
+\hypersetup{
+colorlinks=true,
+linkcolor=magenta
+}
+
+%%% Дополнительная работа с математикой
+\usepackage{amsmath,amsfonts,amssymb,amsthm,mathtools} % AMS
+\usepackage{icomma} % "Умная" запятая: $0,2$ --- число, $0, 2$ --- перечисление
+
+%% Шрифты
+\usepackage{euscript}	 % Шрифт Евклид
+\usepackage{mathrsfs} % Красивый матшрифт
+
+\title{Подборка \\ «Фискальная и монетарная политика. Экономический рост. Деловые циклы»}
+\author{Факультатив «Качественные задачи по экономике» \\ Лицей НИУ ВШЭ}
+
+\usepackage{geometry}
+\geometry{
+	a4paper,
+	left=20mm,
+	top=20mm,
+	right=20mm
+}
+\setlength{\parindent}{0cm}
+
+\DeclareMathOperator{\Lin}{\mathrm{Lin}}
+\DeclareMathOperator{\Linp}{\Lin^{\perp}}
+\DeclareMathOperator*\plim{plim}
+%\DeclareMathOperator{\grad}{grad}
+\DeclareMathOperator{\card}{card}
+\DeclareMathOperator{\sgn}{sign}
+\DeclareMathOperator{\sign}{sign}
+
+\DeclareMathOperator*{\argmin}{arg\,min}
+\DeclareMathOperator*{\argmax}{arg\,max}
+\DeclareMathOperator*{\amn}{arg\,min}
+\DeclareMathOperator*{\amx}{arg\,max}
+\DeclareMathOperator{\cov}{Cov}
+\DeclareMathOperator{\Var}{Var}
+\DeclareMathOperator{\Cov}{Cov}
+\DeclareMathOperator{\Corr}{Corr}
+\DeclareMathOperator{\pCorr}{pCorr}
+\DeclareMathOperator{\E}{\mathbb{E}}
+\let\P\relax
+\DeclareMathOperator{\P}{\mathbb{P}}
+
+
+
+\newcommand{\cN}{\mathcal{N}}
+\newcommand{\cU}{\mathcal{U}}
+\newcommand{\cBinom}{\mathcal{Binom}}
+\newcommand{\cPois}{\mathcal{Pois}}
+\newcommand{\cBeta}{\mathcal{Beta}}
+\newcommand{\cGamma}{\mathcal{Gamma}}
+
+\def \R{\mathbb{R}}
+\def \N{\mathbb{N}}
+\def \Z{\mathbb{Z}}
+
+
+
+
+
+\newcommand{\dx}[1]{\,\mathrm{d}#1} % для интеграла: маленький отступ и прямая d
+\newcommand{\ind}[1]{\mathbbm{1}_{\{#1\}}} % Индикатор события
+%\renewcommand{\to}{\rightarrow}
+\newcommand{\eqdef}{\mathrel{\stackrel{\rm def}=}}
+\newcommand{\iid}{\mathrel{\stackrel{\rm i.\,i.\,d.}\sim}}
+\newcommand{\const}{\mathrm{const}}
+
+
+% вместо горизонтальной делаем косую черточку в нестрогих неравенствах
+\renewcommand{\le}{\leqslant}
+\renewcommand{\ge}{\geqslant}
+\renewcommand{\leq}{\leqslant}
+\renewcommand{\geq}{\geqslant}
+
+\renewcommand{\rmdefault}{cmss}
+%\renewcommand{\ttdefault}{cmss}
+\usepackage{sfmath}
+
+\usepackage{enumitem}
+
+\begin{document}
+
+\maketitle
+
+\section{Экономический рост}
+\begin{enumerate}
+	\item Что такое экономический рост? 
+	\item Зачем нужен экономический рост?
+	\item Как измерить экономический рост? 
+	\item Как изменяется структура ВВП по мере развития экономики? 
+	\item Приведите проблемы ВВП как индикатора благосостояния.
+	\item Почему сложно посчитать ВВП Советского Союза? 
+	\item Чем отличаются номинальный и реальный ВВП?
+	\item Как оценить темпы экономического роста? 
+	\item Что такое ППС? Что такое эффект Балассы-Самуэльсона? 
+	\item Что такое инфляция? Что такое дефляция?
+	\item Как инфляция влияет на экономический рост? 
+	\item Как гиперинфляция влияет на экономический рост? 
+	\item Как статистически связаны безработица и темпы роста ВВП?
+	\item Является ли накопление капитала необходимым условием экономического роста? А достаточным?
+	\item Что является основным источником экономического роста по современным представлениям?
+	\item Объясните термин «Большая дивергенция». 
+\end{enumerate}
+
+\section{Деловые циклы}
+\begin{enumerate}
+	\item Совпадает ли ежегодный темп прироста ВВП с темпом долгосрочного роста ВВП? 
+	\item Чем плохи рецессии и депрессии?
+	\item Имеют ли деловые циклы фиксированный период и/или амплитуду колебаний?
+	\item Симметричны ли деловые циклы (равны ли по длине рецессии и оживления)? 
+	\item Меняются ли деловые циклы со временем? 
+	\item Совпадает ли динамика компонентов ВВП с динамикой самого ВВП?
+	\item Какой компонент ВВП наиболее волатилен?
+	\item Что такое контрциклические, проциклические и антициклические показатели?
+	\item Что такое опережающие, запаздывающие и совпадающие показатели?
+	\item Связаны ли деловые циклы с изменениями на рынке труда? 
+	\item В каких странах деловые колебания происходят чаще: в богатых или бедных? 
+\end{enumerate}
+
+\section{Фискальная и монетарная политика}
+\begin{enumerate}
+	\item Кто осуществляет фискальную и монетарную политику?
+	\item Каковы инструменты фискальной и монетарной политики?
+	\item Каковы микроэкономические цели фискальной политики?
+	\item Каковы макроэкономические цели фискальной политики?
+	\item Каковы цели монетарной политики? 
+	\item Каковы основные ограничения макроэкономической политики?
+\end{enumerate}
+
+\section{Взаимодействие фискальной и монетарной политики}
+\begin{enumerate}
+	\item Какими способами государство может финансировать бюджетный дефицит? Какие проблемы с этим связаны?
+\end{enumerate}
+
+\section{Монетарная политика}
+\begin{enumerate}
+	\item Что такое монетарная экономика?
+	\item С точки зрения монетарной экономики, когда «заканчивается» микроэкономика и начинается «макроэкономика»?
+	\item Каковы микро- и макроэкономические вопросы монетарной экономики?
+	\item Что такое деньги?
+	\item Какими функциями обладают деньги как финансовый актив? 
+	\item Каковы функции денег?
+	\item Что такое бартер? Каковы его недостатки?
+	\item Что такое товарные и символические деньги?
+\end{enumerate}
+
+\section{Фискальная политика}
+\begin{enumerate}
+	\item Почему фискальная политика часто приводит к дефициту госбюджета? 
+\end{enumerate}
+
+\end{document}
