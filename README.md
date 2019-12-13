@@ -12,6 +12,7 @@
 - [Проверочная работа 1: Теория игр. Политическая экономика. Введение в аппарат анализа данных. Задачи на уравнение регрессии (16 ноября)](https://github.com/V-Marco/qualitative_economics/blob/master/test_1.pdf)
 - [Подборка: Поведение фирмы (23 ноября)](https://github.com/V-Marco/qualitative_economics/blob/master/problem_set_firms.pdf)
 - [Подборка: Фискальная и монетарная политика. Экономический рост. Деловые циклы (7 декабря)](https://github.com/V-Marco/qualitative_economics/blob/master/macro_1/macro_1_ps.pdf)
+- [Подборка: Инфляция (14 декабря)](https://github.com/V-Marco/qualitative_economics/blob/master/macro_2/macro_2_ps.pdf)
 
 #### Контакты преподавателей:
 
