@@ -1,0 +1,141 @@
+\documentclass[10pt, a4paper]{extarticle}
+\setlength{\parskip}{0.5em}
+%%% Работа с русским языком
+\usepackage{cmap}					% поиск в PDF
+\usepackage{mathtext} 				% русские буквы в формулах
+\usepackage[T2A]{fontenc}			% кодировка
+\usepackage[utf8]{inputenc}			% кодировка исходного текста
+\usepackage[english,russian]{babel}	% локализация и переносы
+\usepackage{mathtools}   % loads »amsmath«
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage{physics}
+\usepackage{subcaption}
+\usepackage{tikz}
+\usepackage{multicol}
+\usepackage{enumitem}
+
+\usepackage{hyperref}
+\hypersetup{
+colorlinks=true,
+linkcolor=magenta
+}
+
+%%% Дополнительная работа с математикой
+\usepackage{amsmath,amsfonts,amssymb,amsthm,mathtools} % AMS
+\usepackage{icomma} % "Умная" запятая: $0,2$ --- число, $0, 2$ --- перечисление
+
+%% Шрифты
+\usepackage{euscript}	 % Шрифт Евклид
+\usepackage{mathrsfs} % Красивый матшрифт
+
+\title{Подборка \\ «Динамическая несогласованность. Режимы монетарной политики. Особенности макроэкономической политики развивающихся стран»}
+\author{Факультатив «Качественные задачи по экономике» \\ Лицей НИУ ВШЭ}
+
+\usepackage{geometry}
+\geometry{
+	a4paper,
+	left=20mm,
+	top=20mm,
+	right=20mm
+}
+\setlength{\parindent}{0cm}
+\usepackage{array}
+\newcommand{\PreserveBackslash}[1]{\let\temp=\\#1\let\\=\temp}
+\newcolumntype{C}[1]{>{\PreserveBackslash\centering}p{#1}}
+
+\DeclareMathOperator{\Lin}{\mathrm{Lin}}
+\DeclareMathOperator{\Linp}{\Lin^{\perp}}
+\DeclareMathOperator*\plim{plim}
+%\DeclareMathOperator{\grad}{grad}
+\DeclareMathOperator{\card}{card}
+\DeclareMathOperator{\sgn}{sign}
+\DeclareMathOperator{\sign}{sign}
+
+\DeclareMathOperator*{\argmin}{arg\,min}
+\DeclareMathOperator*{\argmax}{arg\,max}
+\DeclareMathOperator*{\amn}{arg\,min}
+\DeclareMathOperator*{\amx}{arg\,max}
+\DeclareMathOperator{\cov}{Cov}
+\DeclareMathOperator{\Var}{Var}
+\DeclareMathOperator{\Cov}{Cov}
+\DeclareMathOperator{\Corr}{Corr}
+\DeclareMathOperator{\pCorr}{pCorr}
+\DeclareMathOperator{\E}{\mathbb{E}}
+\let\P\relax
+\DeclareMathOperator{\P}{\mathbb{P}}
+
+
+
+\newcommand{\cN}{\mathcal{N}}
+\newcommand{\cU}{\mathcal{U}}
+\newcommand{\cBinom}{\mathcal{Binom}}
+\newcommand{\cPois}{\mathcal{Pois}}
+\newcommand{\cBeta}{\mathcal{Beta}}
+\newcommand{\cGamma}{\mathcal{Gamma}}
+
+\def \R{\mathbb{R}}
+\def \N{\mathbb{N}}
+\def \Z{\mathbb{Z}}
+
+
+
+
+
+\newcommand{\dx}[1]{\,\mathrm{d}#1} % для интеграла: маленький отступ и прямая d
+\newcommand{\ind}[1]{\mathbbm{1}_{\{#1\}}} % Индикатор события
+%\renewcommand{\to}{\rightarrow}
+\newcommand{\eqdef}{\mathrel{\stackrel{\rm def}=}}
+\newcommand{\iid}{\mathrel{\stackrel{\rm i.\,i.\,d.}\sim}}
+\newcommand{\const}{\mathrm{const}}
+
+
+% вместо горизонтальной делаем косую черточку в нестрогих неравенствах
+\renewcommand{\le}{\leqslant}
+\renewcommand{\ge}{\geqslant}
+\renewcommand{\leq}{\leqslant}
+\renewcommand{\geq}{\geqslant}
+
+\renewcommand{\rmdefault}{cmss}
+%\renewcommand{\ttdefault}{cmss}
+\usepackage{sfmath}
+
+\usepackage{enumitem}
+
+\begin{document}
+
+\maketitle
+
+\section{Динамическая несогласованность}
+\begin{enumerate}[label=\alph*)]
+	\item Как Вы считаете, имеет ли сеньораж большое значение в развитых странах?
+	\item Объясните интуитивно, почему в краткосрочном периоде существует выбор между инфляцией и безработицей. Существует ли этот выбор в долгосрочном периоде и почему? Является ли этот выбор осознанным?
+	\item Почему политики могут быть не готовы снизить инфляцию, даже если она кажется им слишком высокой?
+	\item Поясните идею Кидлэнда и Прескотта о динамически несогласованной политике.
+	\item Что такое оптимальная политика? 
+	\item Что такое динамически согласованная политика?
+	\item Как можно решить проблему динамической несогласованности при помощи политики правил? 
+	\item Какова роль репутации при решении проблемы динамической несогласованности? 
+	\item Как делегирование полномочий и независимость ЦБ связаны с решением проблемы динамической несогласованности?
+\end{enumerate}
+
+\section{Режимы монетарной политики}
+\begin{enumerate}[label=\alph*)]
+	\item Перечислите основные режимы монетарной политики.
+	\item В чём преимущества и недостатки дискреционной (гибкой) монетарной политики и политики правил?
+	\item Объясните, какие инструменты входят в политику таргетирования.
+	\item Перечислите режимы валютного курса. В чём их преимущества и недостатки?
+	\item Что необходимо для осуществления успешной политики таргетирования денежной массы? В чём преимущества и недостатки этого вида таргетирования?
+	\item Что характерно для инфляционного таргетирования? Что такое строгое и гибкое ИТ?
+\end{enumerate}
+
+\section{Особенности макроэкономической политики развивающихся стран}
+\begin{enumerate}[label=\alph*)]
+	\item В чём состоят особенности финансовой системы развивающихся стран?
+	\item Что такое долларизация? К каким негативным последствиям она может привести? 
+	\item В чём причины высокой инфляции в развивающихся странах?
+\end{enumerate}
+
+
+
+\end{document}
