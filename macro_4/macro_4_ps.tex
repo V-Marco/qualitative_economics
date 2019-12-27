@@ -1,0 +1,140 @@
+\documentclass[10pt, a4paper]{extarticle}
+\setlength{\parskip}{0.5em}
+%%% Работа с русским языком
+\usepackage{cmap}					% поиск в PDF
+\usepackage{mathtext} 				% русские буквы в формулах
+\usepackage[T2A]{fontenc}			% кодировка
+\usepackage[utf8]{inputenc}			% кодировка исходного текста
+\usepackage[english,russian]{babel}	% локализация и переносы
+\usepackage{mathtools}   % loads »amsmath«
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage{physics}
+\usepackage{subcaption}
+\usepackage{tikz}
+\usepackage{multicol}
+\usepackage{enumitem}
+
+\usepackage{hyperref}
+\hypersetup{
+colorlinks=true,
+linkcolor=magenta
+}
+
+%%% Дополнительная работа с математикой
+\usepackage{amsmath,amsfonts,amssymb,amsthm,mathtools} % AMS
+\usepackage{icomma} % "Умная" запятая: $0,2$ --- число, $0, 2$ --- перечисление
+
+%% Шрифты
+\usepackage{euscript}	 % Шрифт Евклид
+\usepackage{mathrsfs} % Красивый матшрифт
+
+\title{Подборка \\ «Валютные кризисы. Регулирование банковского сектора»}
+\author{Факультатив «Качественные задачи по экономике» \\ Лицей НИУ ВШЭ}
+
+\usepackage{geometry}
+\geometry{
+	a4paper,
+	left=20mm,
+	top=20mm,
+	right=20mm
+}
+\setlength{\parindent}{0cm}
+\usepackage{array}
+\newcommand{\PreserveBackslash}[1]{\let\temp=\\#1\let\\=\temp}
+\newcolumntype{C}[1]{>{\PreserveBackslash\centering}p{#1}}
+
+\DeclareMathOperator{\Lin}{\mathrm{Lin}}
+\DeclareMathOperator{\Linp}{\Lin^{\perp}}
+\DeclareMathOperator*\plim{plim}
+%\DeclareMathOperator{\grad}{grad}
+\DeclareMathOperator{\card}{card}
+\DeclareMathOperator{\sgn}{sign}
+\DeclareMathOperator{\sign}{sign}
+
+\DeclareMathOperator*{\argmin}{arg\,min}
+\DeclareMathOperator*{\argmax}{arg\,max}
+\DeclareMathOperator*{\amn}{arg\,min}
+\DeclareMathOperator*{\amx}{arg\,max}
+\DeclareMathOperator{\cov}{Cov}
+\DeclareMathOperator{\Var}{Var}
+\DeclareMathOperator{\Cov}{Cov}
+\DeclareMathOperator{\Corr}{Corr}
+\DeclareMathOperator{\pCorr}{pCorr}
+\DeclareMathOperator{\E}{\mathbb{E}}
+\let\P\relax
+\DeclareMathOperator{\P}{\mathbb{P}}
+
+
+
+\newcommand{\cN}{\mathcal{N}}
+\newcommand{\cU}{\mathcal{U}}
+\newcommand{\cBinom}{\mathcal{Binom}}
+\newcommand{\cPois}{\mathcal{Pois}}
+\newcommand{\cBeta}{\mathcal{Beta}}
+\newcommand{\cGamma}{\mathcal{Gamma}}
+
+\def \R{\mathbb{R}}
+\def \N{\mathbb{N}}
+\def \Z{\mathbb{Z}}
+
+
+
+
+
+\newcommand{\dx}[1]{\,\mathrm{d}#1} % для интеграла: маленький отступ и прямая d
+\newcommand{\ind}[1]{\mathbbm{1}_{\{#1\}}} % Индикатор события
+%\renewcommand{\to}{\rightarrow}
+\newcommand{\eqdef}{\mathrel{\stackrel{\rm def}=}}
+\newcommand{\iid}{\mathrel{\stackrel{\rm i.\,i.\,d.}\sim}}
+\newcommand{\const}{\mathrm{const}}
+
+
+% вместо горизонтальной делаем косую черточку в нестрогих неравенствах
+\renewcommand{\le}{\leqslant}
+\renewcommand{\ge}{\geqslant}
+\renewcommand{\leq}{\leqslant}
+\renewcommand{\geq}{\geqslant}
+
+\renewcommand{\rmdefault}{cmss}
+%\renewcommand{\ttdefault}{cmss}
+\usepackage{sfmath}
+
+\usepackage{enumitem}
+
+\begin{document}
+
+\maketitle
+
+\section{Валютные кризисы}
+Заполните таблицу:
+
+\def\arraystretch{3}
+\begin{center}
+\begin{tabular}{l|C{4cm}|C{4cm}|C{4cm}}
+	&I поколение & II поколение & III поколение \\[1.8ex]
+	\hline
+	Причина кризиса &&&  \\ 
+	Механизм кризиса &&& \\
+	Критика модели &&& \\
+	Примеры &&&
+\end{tabular}
+\end{center}
+
+\section{Регулирование банковского сектора}
+\begin{enumerate}[label=\alph*)]
+	\item Какие цели преследует регулирование банковского сектора?
+	\item Какими способами ЦБ может регулировать банковский сектор.
+	\item Чем банковская паника отличается от банковского набега?
+	\item Поясните, почему банковская паника представляет особую угрозу банковскому сектору.
+	\item Поясните, почему банковская паника может возникать даже в отсутствии фундаментальных причин.
+	\item Поясните, как страхование вкладов может решить проблему банковской паники из-за влияния ожиданий агентов.
+	\item Объясните, какие функции выполняет АСВ.
+	\item Поясните, что такое санация банков.
+	\item Назовите примеры причин, при которых у коммерческого банка может быть отозвана лицензия.
+	\item Назовите побочные эффекты регулирования банковского сектора.
+	\item Что такое Базель I, II и III?
+\end{enumerate}
+
+
+\end{document}
