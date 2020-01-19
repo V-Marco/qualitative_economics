@@ -10,7 +10,7 @@
 - [Подборка: Графический анализ данных. Задачи на уравнение регрессии (Часть 1) (26 октября и 9 ноября)](https://github.com/V-Marco/qualitative_economics/blob/master/problem_set_regression.pdf)
 - [Подборка: Графический анализ данных. Задачи на уравнение регрессии (Часть 2) (16 ноября)](https://github.com/V-Marco/qualitative_economics/blob/master/problem_set_regr2.pdf)
 - [Проверочная работа 1: Теория игр. Политическая экономика. Введение в аппарат анализа данных. Задачи на уравнение регрессии (16 ноября)](https://github.com/V-Marco/qualitative_economics/blob/master/test_1.pdf)
-- [Подборка: Поведение фирмы (23 ноября)](https://github.com/V-Marco/qualitative_economics/blob/master/problem_set_firms.pdf)
+- [Подборка: Поведение фирмы (23 ноября, 30 ноября)](https://github.com/V-Marco/qualitative_economics/blob/master/problem_set_firms.pdf)
 - [Подборка: Фискальная и монетарная политика. Экономический рост. Деловые циклы (7 декабря)](https://github.com/V-Marco/qualitative_economics/blob/master/macro_1/macro_1_ps.pdf)
 - [Подборка: Инфляция (14 декабря)](https://github.com/V-Marco/qualitative_economics/blob/master/macro_2/macro_2_ps.pdf)
 - [Подборка: Динамическая несогласованность. Режимы монетарной политики. Особенности макроэкономической политики развивающихся стран (21 декабря)](https://github.com/V-Marco/qualitative_economics/blob/master/macro_3/macro_3_ps.pdf)
