@@ -9,7 +9,6 @@
 - [Необязательное домашнее задание: Выборы (19 октября)](https://github.com/V-Marco/qualitative_economics/blob/master/problem_set_elections.pdf)
 - [Подборка: Графический анализ данных. Задачи на уравнение регрессии (Часть 1) (26 октября и 9 ноября)](https://github.com/V-Marco/qualitative_economics/blob/master/problem_set_regression.pdf)
 - [Подборка: Графический анализ данных. Задачи на уравнение регрессии (Часть 2) (16 ноября)](https://github.com/V-Marco/qualitative_economics/blob/master/problem_set_regr2.pdf)
-- [Проверочная работа 1: Теория игр. Политическая экономика. Введение в аппарат анализа данных. Задачи на уравнение регрессии (16 ноября)](https://github.com/V-Marco/qualitative_economics/blob/master/test_1.pdf)
 - [Подборка: Поведение фирмы (23 ноября, 30 ноября)](https://github.com/V-Marco/qualitative_economics/blob/master/problem_set_firms.pdf)
 - [Подборка: Фискальная и монетарная политика. Экономический рост. Деловые циклы (7 декабря)](https://github.com/V-Marco/qualitative_economics/blob/master/macro_1/macro_1_ps.pdf)
 - [Краткий конспект по темам «Экономический рост» и «Деловые циклы»](https://github.com/V-Marco/qualitative_economics/blob/master/Macro_theory.pdf)
@@ -17,6 +16,10 @@
 - [Подборка: Динамическая несогласованность. Режимы монетарной политики. Особенности макроэкономической политики развивающихся стран (21 декабря)](https://github.com/V-Marco/qualitative_economics/blob/master/macro_3/macro_3_ps.pdf)
 - [Подборка: Валютные кризисы. Регулирование банковского сектора (28 декабря)](https://github.com/V-Marco/qualitative_economics/blob/master/macro_4/macro_4_ps.pdf)
 - [Подборка: Теория фирмы (11 января, 18 января)](https://github.com/V-Marco/qualitative_economics/blob/master/problem_set_firms_2.pdf)
+
+#### Проверочные работы
+- [Проверочная работа 1: Теория игр. Политическая экономика. Введение в аппарат анализа данных. Задачи на уравнение регрессии (16 ноября)](https://github.com/V-Marco/qualitative_economics/blob/master/test_1.pdf)
+- [Проверочная работа 2: Макроэкономика (часть 1). Теория фирмы (24 января)](https://github.com/V-Marco/qualitative_economics/blob/master/test_2.pdf)
 
 #### Контакты преподавателей:
 
