@@ -16,6 +16,7 @@
 - [Подборка: Динамическая несогласованность. Режимы монетарной политики. Особенности макроэкономической политики развивающихся стран (21 декабря)](https://github.com/V-Marco/qualitative_economics/blob/master/macro_3/macro_3_ps.pdf)
 - [Подборка: Валютные кризисы. Регулирование банковского сектора (28 декабря)](https://github.com/V-Marco/qualitative_economics/blob/master/macro_4/macro_4_ps.pdf)
 - [Подборка: Теория фирмы (11 января, 18 января)](https://github.com/V-Marco/qualitative_economics/blob/master/problem_set_firms_2.pdf)
+- [Подборка: Ожидания в макроэкономике. Макроэкономические школы (14 февраля)](https://github.com/V-Marco/qualitative_economics/blob/master/Expectations.pdf)
 
 #### Проверочные работы
 - [Проверочная работа 1: Теория игр. Политическая экономика. Введение в аппарат анализа данных. Задачи на уравнение регрессии (16 ноября)](https://github.com/V-Marco/qualitative_economics/blob/master/test_1.pdf)
